@@ -1,0 +1,6 @@
+{
+  "name": "AI Lab & Workspace",
+  "description": "An elite creative workspace and playground powered by Gemini. Features a powerful editorial text enhancer, structured strategic planner, visual story-board generator, and curated smart prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
